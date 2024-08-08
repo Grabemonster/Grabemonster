@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm Grabemonster or Jakob
 
+I am intrested in programming as you can probatly see because I have an acount here.
+And if you read this then you probatly already realized how bad I am at writing/spelling
+
 <!--
 **Grabemonster/Grabemonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
